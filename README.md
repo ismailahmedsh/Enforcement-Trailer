@@ -25,6 +25,6 @@ The enforcement trailer can run autonomously and continuously for a total period
 The system is now an off-grid solar augmentation of Vitronic's enforcement trailer that implements autonomous traffic monitoring and enforcement with an alternative solar PV system as a power source.
 
 # Images
-.
+.              
 <img src='https://github.com/ismailahmedsh/Enforcement-Trailer/blob/main/images/Picture1.png?raw=true' width='400' height='350'/>
 <img src='https://github.com/ismailahmedsh/Enforcement-Trailer/blob/main/images/MicrosoftTeams-image%20(5).png?raw=true' width='400' height='350'/>
